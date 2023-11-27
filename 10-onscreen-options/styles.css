@@ -1,0 +1,19 @@
+#mydiv {
+  background: none;
+  position: fixed;
+  top: 50%;
+  left: 70%;
+  z-index: 9;
+  padding: 1rem;
+  text-align: center;
+}
+button {
+  display: inline-block;
+  padding: 1rem;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  border-radius: 50%;
+  background-color: royalblue;
+  color: whitesmoke;
+}
